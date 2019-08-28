@@ -9,12 +9,13 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
+    "@phizzard/gatsby-theme-tailwind-blog": "^1.0.0",
     "gatsby": "^2.13.60",
     "gatsby-plugin-manifest": "^2.2.9",
     "gatsby-plugin-netlify-cms": "^4.1.11",
     "gatsby-plugin-page-creator": "^2.1.6",
     "gatsby-plugin-sitemap": "^2.2.9",
-    "@phizzard/gatsby-theme-tailwind-blog": "^1.0.0",
+    "netlify-cms-app": "^2.9.7",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   }
