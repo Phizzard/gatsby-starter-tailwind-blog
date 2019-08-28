@@ -4,6 +4,7 @@ module.exports = {
     author: `Phil the testing person`,
     description: `Description placeholder`,
     url: `www.phil-blog.dev`,
+    siteUrl: `www.phil-blog.dev`,
     social: [
       {
         key: `twitter`,
