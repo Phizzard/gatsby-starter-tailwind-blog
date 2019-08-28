@@ -14,7 +14,7 @@
     "gatsby-plugin-netlify-cms": "^4.1.11",
     "gatsby-plugin-page-creator": "^2.1.6",
     "gatsby-plugin-sitemap": "^2.2.9",
-    "gatsby-theme-tailwind-blog": "*",
+    "@phizzard/gatsby-theme-tailwind-blog": "^1.0.0",
     "react": "^16.9.0",
     "react-dom": "^16.9.0"
   }
