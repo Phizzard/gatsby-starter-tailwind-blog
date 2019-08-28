@@ -19,7 +19,7 @@ module.exports = {
   },
   plugins: [
     {
-      resolve: "gatsby-theme-tailwind-blog",
+      resolve: "@phizzard/gatsby-theme-tailwind-blog",
       options: {
         theme: {
           colours:{
