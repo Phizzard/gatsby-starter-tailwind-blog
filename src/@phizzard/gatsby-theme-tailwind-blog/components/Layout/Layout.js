@@ -3,8 +3,8 @@ import styled from "@emotion/styled";
 import "./layout.css";
 /* globals tw */
 
-import { Seo } from '../../../components/Seo'
-import { Navigation } from "../../../components/Navigation";
+import { Seo } from '../../../../components/Seo'
+import { Navigation } from "../../../../components/Navigation";
 
 export default ({ children, Header, ...props }) => (
   <div>
