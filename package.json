@@ -9,7 +9,7 @@
     "clean": "gatsby clean"
   },
   "dependencies": {
-    "@phizzard/gatsby-theme-tailwind-blog": "^1.0.1",
+    "@phizzard/gatsby-theme-tailwind-blog": "^1.1.0",
     "gatsby": "^2.13.60",
     "gatsby-plugin-manifest": "^2.2.9",
     "gatsby-plugin-netlify-cms": "^4.1.11",
