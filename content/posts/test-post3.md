@@ -1,21 +1,25 @@
 ---
-title: Test post 3
+title: Bacon Ipsum Dolor Ipsum Dolor part 3
 date: 2019-01-01T00:00:00.000Z
 tags:
-  - webdev
-  - react
+  - tag1
+  - tag2
+  - tag3
 thumbnail: /content/assets/navbrand.png
 ---
-I've been meaning to write something like this for a while, going over various stumbling blocks I had built a large scale web application I _really_ shouldn't have had any business doing.
 
-I want to quickly state that some of these mistakes can seem like no brainers and that my tips are by all means not the be all solutions. These are tips after looking back based on my personal experience.
 
-So here goes!
+## Bacon Ipsum Dolor
+Spicy jalapeno bacon ipsum dolor amet esse sirloin proident, tri-tip pork belly doner elit venison fugiat qui. Ullamco rump consectetur, boudin swine exercitation tongue et officia pastrami. Cupim aliqua salami, leberkas brisket pork ground round incididunt officia ball tip shankle. Aute in quis consectetur bresaola ullamco, dolore aliquip leberkas pig. Laboris meatball labore swine adipisicing in. Aute sausage consequat, shoulder ham pork belly spare ribs laboris ullamco cow. Buffalo brisket est occaecat.
 
-## Some Background
+## Bacon Ipsum Dolor
+Swine in burgdoggen leberkas shankle, picanha excepteur. In kielbasa nostrud bresaola. Minim pastrami laborum, ad beef ribs meatball duis leberkas ut anim do turducken meatloaf. Irure corned beef magna consequat in. Flank sausage ullamco ut est consequat elit sed shank in jowl filet mignon. Nisi filet mignon lorem veniam shoulder doner pastrami. Short ribs cupidatat elit, pork pork chop ut fugiat beef leberkas kielbasa do commodo strip steak.
 
-Travel back in time to 2017 when I was a less experienced developer, a company I used to work for needed to rebuild a legacy multi-vendor e-commerce app around 15 years old. Being a small team with lots of projects on the go, I was included in this undertaking. Little did I know that I would stumble my way into being the technical lead.
+## Bacon Ipsum Dolor
+Doner laboris boudin exercitation, alcatra in short loin. Officia lorem buffalo landjaeger tempor swine. Cupidatat pork loin ground round cupim, turducken minim tempor quis deserunt shank shankle ea aute jowl. Hamburger mollit beef qui cow, dolor ea sirloin et minim kielbasa. Dolore pig hamburger doner non turducken. Eiusmod sint irure beef ribs spare ribs.
 
-I was _not_ experienced enough both technically or professionally, though I was hungry and enthusiastic to climb the ranks of the company and level up my career; money was tight with a second child on the way. I also showed up so I had that going for me. This ended up taking just over a year to launch, 5-6 months of which were crunch.
+## Bacon Ipsum Dolor
+Turducken biltong tri-tip jerky. Et ut dolore, non strip steak reprehenderit short ribs alcatra sed dolor. Dolor aliquip shank sed, spare ribs in incididunt laborum cupim in veniam meatball qui tail. Lorem kielbasa consectetur boudin. Eu enim venison meatball ham jerky tri-tip boudin kielbasa buffalo deserunt veniam spare ribs cillum duis.
 
-##
+## Bacon Ipsum Dolor
+Dolore tenderloin laboris meatloaf. Short loin salami deserunt excepteur kevin flank dolore nisi laboris buffalo magna beef ribs. Magna elit aute leberkas doner bacon. Tail capicola sausage tempor shankle bacon fugiat turducken cupim voluptate ea labore consectetur. Leberkas sint aliqua anim chicken salami occaecat shankle cupidatat boudin.

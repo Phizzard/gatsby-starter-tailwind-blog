@@ -1,9 +1,9 @@
 module.exports = {
   siteMetadata: {
     title: `My Test Blog`,
-    author: `Phil the testing person`,
-    description: `Description placeholder`,
-    url: `www.phil-blog.dev`,
+    author: `Blog Author`,
+    description: `Description text`,
+    url: `www.placeholder-blog.com`,
     social: [
       {
         key: `twitter`,
@@ -23,7 +23,7 @@ module.exports = {
       options: {
         theme: {
           colours:{
-            primary: "blue"
+            primary: "blue-dark" // #2779BD
           }
         },
         contentPath: "content/posts",
@@ -43,8 +43,8 @@ module.exports = {
         name: `Test Blog`,
         short_name: `TestBlog`,
         start_url: `/`,
-        background_color: `#f7f0eb`,
-        theme_color: `#a2466c`,
+        background_color: `#2779BD`,
+        theme_color: `#2779BD`,
         display: `standalone`,
         icon: `content/assets/navbrandlogo.png`,
       },
