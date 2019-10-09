@@ -21,11 +21,6 @@ module.exports = {
     {
       resolve: "@phizzard/gatsby-theme-tailwind-blog",
       options: {
-        theme: {
-          colours:{
-            primary: "blue-dark" // #2779BD
-          }
-        },
         contentPath: "content/posts",
         assetsPath: "content/assets",
         basePath: "/",
